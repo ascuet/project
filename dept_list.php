@@ -41,6 +41,7 @@
       </nav>
     <div class="container">
       <h3>Department</h3>
+      <p>Lorem ipsum dolor sit amet.</p>
     </div>
 </body>
 </html>
