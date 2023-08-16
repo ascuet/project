@@ -43,6 +43,7 @@
       </nav>
     <div class="container">
       <h3>Registration</h3>
+      <p>This is registration page</p>
     </div>
 </body>
 </html>
