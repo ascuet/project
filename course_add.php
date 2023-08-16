@@ -43,6 +43,7 @@
       </nav>
     <div class="container">
       <h3>Add Courses</h3>
+      <p>This is course add section</p>
       
     </div>
 </body>
