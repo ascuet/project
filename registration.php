@@ -44,6 +44,12 @@
     <div class="container">
       <h3>Registration</h3>
       <p>This is registration page</p>
+      <form action="">
+        <div class="form-group">
+            <label for="">Name</label>
+            <input type="text" name="" id="">
+        </div>
+      </form>
     </div>
 </body>
 </html>
